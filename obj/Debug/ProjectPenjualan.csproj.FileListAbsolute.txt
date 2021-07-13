@@ -1,0 +1,10 @@
+E:\Data\Dokumen Online\GoogleDrive\My Laptop\Pribadi\Materi Ngajar\03 2020-2021\02 Genap\Pemrograman\15 responsi uas\kelas 01\ProjectPenjualan\ProjectPenjualan\bin\Debug\ProjectPenjualan.exe
+E:\Data\Dokumen Online\GoogleDrive\My Laptop\Pribadi\Materi Ngajar\03 2020-2021\02 Genap\Pemrograman\15 responsi uas\kelas 01\ProjectPenjualan\ProjectPenjualan\bin\Debug\ProjectPenjualan.pdb
+E:\Data\Dokumen Online\GoogleDrive\My Laptop\Pribadi\Materi Ngajar\03 2020-2021\02 Genap\Pemrograman\15 responsi uas\kelas 01\ProjectPenjualan\ProjectPenjualan\obj\Debug\ProjectPenjualan.exe
+E:\Data\Dokumen Online\GoogleDrive\My Laptop\Pribadi\Materi Ngajar\03 2020-2021\02 Genap\Pemrograman\15 responsi uas\kelas 01\ProjectPenjualan\ProjectPenjualan\obj\Debug\ProjectPenjualan.pdb
+F:\kampus\Semester 2\3349_Nisa Alfian_Pemograman II\responsi 2\Responsi\ProjectPenjualan\ProjectPenjualan\obj\Debug\ProjectPenjualan.csprojAssemblyReference.cache
+F:\kampus\Semester 2\3349_Nisa Alfian_Pemograman II\responsi 2\Responsi\ProjectPenjualan\ProjectPenjualan\obj\Debug\ProjectPenjualan.csproj.CoreCompileInputs.cache
+F:\kampus\Semester 2\3349_Nisa Alfian_Pemograman II\responsi 2\Responsi\ProjectPenjualan\ProjectPenjualan\obj\Debug\ProjectPenjualan.exe
+F:\kampus\Semester 2\3349_Nisa Alfian_Pemograman II\responsi 2\Responsi\ProjectPenjualan\ProjectPenjualan\obj\Debug\ProjectPenjualan.pdb
+F:\kampus\Semester 2\3349_Nisa Alfian_Pemograman II\responsi 2\Responsi\ProjectPenjualan\ProjectPenjualan\bin\Debug\ProjectPenjualan.exe
+F:\kampus\Semester 2\3349_Nisa Alfian_Pemograman II\responsi 2\Responsi\ProjectPenjualan\ProjectPenjualan\bin\Debug\ProjectPenjualan.pdb
